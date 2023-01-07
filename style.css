@@ -1,0 +1,150 @@
+body{
+    color: #40514e;
+    margin: 0;
+     text-align: center;
+   font-family: 'Merriweather',serif;
+   /* font-size: 200%; */
+}
+h1{
+    font-family: 'Sacremento',cursive;
+   width: 60%; 
+    margin: 0px auto 0 auto;
+    
+    /* color: red; */
+        font-size: 5.625rem;
+
+}
+h2{
+    font-family: 'Montserrat' ,sans-serif;
+    color:black;
+font-size: 2.5rem;
+padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+    color: #11999E;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+
+}
+ .middle-container{
+  margin: 100px 0;  
+
+}
+.bottom-container{
+    background-color: #29d5d5; 
+    padding: 50px  0 20px ;
+}
+hr{
+    border: dotted rgb(27, 204, 32);
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.pro{
+text-decoration: underline;
+    }
+    .intro{
+        width: 30%;
+        margin: auto;
+        
+    }
+.bottom-cloud {
+position:absolute;
+left:340px;
+bottom: 300px;
+}
+a{
+    color: #9e114c;
+    font-family: sans-serif;
+    margin: 10px 20px;
+
+
+}
+
+.top-cloud{
+   position: absolute; 
+   margin-top: 55px;
+   right: 300px;
+   top: 50px;
+
+}
+/* p{
+    color: rgb(7, 8, 7);
+    font-size: 30px; */
+/* } */
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.code-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chill-img{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+.class-skill{
+    clear: left;
+
+}
+.hotclass{
+    clear: right;
+}
+p{
+    line-height: 2;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+ .btn {
+    -webkit-border-radius: 46;
+    -moz-border-radius: 46;
+    border-radius: 46px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 18px;
+    background: #3468d9;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #fc793c;
+    text-decoration: none; 
+  }
+    .footer-link{
+    -webkit-border-radius: 46;
+    -moz-border-radius: 46;
+    border-radius: 46px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 18px;
+    /* background: #34d95b; */
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .footer-link:hover {
+    background: #fc3c6f;
+    text-decoration: none;
+  } 
+  .copyright{
+    color: #f0ebed;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+    font-size: 20px;
+  }
+
+  
+   
+   
